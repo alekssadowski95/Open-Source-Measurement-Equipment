@@ -5,10 +5,10 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 - Waveform Generators
 - Spectrum Analyzers
 - RF Generators
-- Vector Network Analyzer
+- Vector Network Analyzers
 - RF Switch Systems
 - Digital Multimeters
-- DC Electronic Load
+- DC Electronic Loads
 - Power Supplies
 
 
