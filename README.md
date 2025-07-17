@@ -39,9 +39,9 @@ Preliminary mBOM for the entire assembly:
 
 
 For reference on enclosure design.
-Rigol DHO800: https://www.youtube.com/watch?v=KQF4UzLPpr0
-Rohde & Schwarz HMO1202: https://www.youtube.com/watch?v=q_FBwu2K7j0
-Tektronix 2 Series Oscilloscope: https://www.youtube.com/watch?v=R2fw2g6WFbg
-Rohde & Schwarz MXO4: https://www.youtube.com/watch?v=BTuXbY_nBOM
-Tektronix MDO3000: https://www.youtube.com/watch?v=VFX47ZGOn_o
-Siglent SVA1015X VNA: https://www.youtube.com/watch?v=HxBcQDooAYs
+- Rigol DHO800: https://www.youtube.com/watch?v=KQF4UzLPpr0
+- Rohde & Schwarz HMO1202: https://www.youtube.com/watch?v=q_FBwu2K7j0
+- Tektronix 2 Series Oscilloscope: https://www.youtube.com/watch?v=R2fw2g6WFbg
+- Rohde & Schwarz MXO4: https://www.youtube.com/watch?v=BTuXbY_nBOM
+- Tektronix MDO3000: https://www.youtube.com/watch?v=VFX47ZGOn_o
+- Siglent SVA1015X VNA: https://www.youtube.com/watch?v=HxBcQDooAYs
