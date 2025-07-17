@@ -1,6 +1,18 @@
 # Generic-Measurement-Equipment-Enclosure
-Here is a preliminary mBOM for the entire assembly:
 
+Generic measurement equipment enclosure to be used with:
+- Digital Oscilloscopes
+- Waveform Generators
+- Spectrum Analyzers
+- RF Generators
+- Vector Network Analyzer
+- RF Switch Systems
+- Digital Multimeters
+- DC Electronic Load
+- Power Supplies
+
+
+Here is a preliminary mBOM for the entire assembly:
 - <measurement equipment> pcb
 - steel enclosure top
 - steel enclosure bottom
@@ -27,7 +39,6 @@ Here is a preliminary mBOM for the entire assembly:
 
 
 For reference on enclosure design.
-
 Rigol DHO800: https://www.youtube.com/watch?v=KQF4UzLPpr0
 Rohde & Schwarz HMO1202: https://www.youtube.com/watch?v=q_FBwu2K7j0
 Tektronix 2 Series Oscilloscope: https://www.youtube.com/watch?v=R2fw2g6WFbg
