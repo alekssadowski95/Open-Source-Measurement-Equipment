@@ -1,4 +1,4 @@
-# Open-Source Measurement-Equipment
+# Open-Source Measurement Equipment
 
 Generic measurement equipment enclosure to be used with:
 - Digital Oscilloscopes
