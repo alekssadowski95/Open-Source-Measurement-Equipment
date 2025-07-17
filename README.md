@@ -12,7 +12,7 @@ Generic measurement equipment enclosure to be used with:
 - Power Supplies
 
 
-Here is a preliminary mBOM for the entire assembly:
+Preliminary mBOM for the entire assembly:
 - <measurement equipment> pcb
 - steel enclosure top
 - steel enclosure bottom
