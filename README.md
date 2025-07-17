@@ -1,6 +1,6 @@
 # Open-Source Measurement Equipment
 
-Generic measurement equipment enclosure to be used with:
+Generic measurement equipment framework (enclosure, PSU, display, ...) to be used with:
 - Digital Oscilloscopes
 - Waveform Generators
 - Spectrum Analyzers
