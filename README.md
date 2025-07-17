@@ -1,33 +1,33 @@
 # Generic-Measurement-Equipment-Enclosure
 Here is a preliminary mBOM for the entire assembly:
 
-LibreVNA pcb
-aluminium top shield
-aluminium bottom shield
-steel enclosure top
-steel enclosure bottom
-Raspberry PI 5
-SD card
-PSU for Raspberry PI 5
-USB-C cable
-Connectors for reference (2x)
-Cables for reference connectors (2x)
-Fan for steel enclosure
-PSU for fan
-plastic or rubber feet + screws for steel enclosure (4x)
-3D-printed plastic front panel
-Brand and model sticker
-Brass threaded inserts (?x)
-10 inch touch screen with HDMI
-Touch screen mounting screws (4x)
-Touch screen PSU
-micro-HDMI to HDMi cable (correct?)
-on button
-on/off switch
-Mains connector
-Some way to connect all devices to mains (help?)
-Handle
-Handle mechanism (?) -> patent search for free state of the art solution
+- LibreVNA pcb
+- aluminium top shield
+- aluminium bottom shield
+- steel enclosure top
+- steel enclosure bottom
+- Raspberry PI 5
+- SD card
+- PSU for Raspberry PI 5
+- USB-C cable
+- Connectors for reference (2x)
+- Cables for reference connectors (2x)
+- Fan for steel enclosure
+- PSU for fan
+- plastic or rubber feet + screws for steel enclosure (4x)
+- 3D-printed plastic front panel
+- Brand and model sticker
+- Brass threaded inserts (?x)
+- 10 inch touch screen with HDMI
+- Touch screen mounting screws (4x)
+- Touch screen PSU
+- micro-HDMI to HDMi cable (correct?)
+- on button
+- on/off switch
+- Mains connector
+- Some way to connect all devices to mains (help?)
+- Handle
+- Handle mechanism (?) -> patent search for free state of the art solution
 
 
 For reference on enclosure design.
