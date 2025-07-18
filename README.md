@@ -16,6 +16,10 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 
 
 ## Formfactors
+- 10 inch touchscreen
+- 7 inch touchscreen
+- 5 inch touchscreen
+- 
 ![measurement-equipment-formfactors.jpeg](measurement-equipment-formfactors.jpeg)
 
 
