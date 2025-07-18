@@ -35,30 +35,30 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 
 ## Bill of materials (10 inch touchscreen, type I, mechanical)
 *Table 1: Bill of materials for a device with a 10 inch touchscreen and type I front panel layout including the price and supplier for the components.*
-| Description                                                | Count | Price | Supplier |
-|------------------------------------------------------------|-------|-------|----------|
-| Measurement equipment PCB                                  |   1   |       |          |
-| Steel enclosure frame                                      |   1   |       |          |
-| Raspberry PI 5                                             |   1   |       |          |
-| SD card                                                    |   1   |       |          |
-| PSU for Raspberry PI 5                                     |   1   |       |          |
-| USB-C cable                                                |   1   |       |          |
-| Fan for steel enclosure                                    |   1   |       |          |
-| PSU for fan                                                |   1   |       |          |
-| Plastic or rubber feet + screws for steel enclosure        |   4   |       |          |
-| 3D-printed plastic front panel                             |   1   |       |          |
-| Brand and model sticker                                    |   1   |       |          |
-| Brass threaded inserts (?x)                                |       |       |          |
-| 10 inch touch screen with HDMI                             |   1   |       |          |
-| Touch screen mounting screws                               |   4   |       |          |
-| Touch screen PSU                                           |   1   |       |          |
-| Micro-HDMI to HDMI cable (correct?)                        |   1   |       |          |
-| On button                                                  |   1   |       |          |
-| On/off switch                                              |   1   |       |          |
-| Mains connector                                            |   1   |       |          |
-| Some way to connect all devices to mains (help?)           |   1   |       |          |
-| Handle                                                     |   1   |       |          |
-| Handle mechanism (?) → patent search for free alternatives |   1   |       |          |
+| Item no. | Description                                                | Count | Price | Supplier |
+|-----------------------------------------------------------------------|-------|-------|----------|
+| 1  | Measurement equipment PCB                                  |   1   |       |          |
+| 2  | Steel enclosure frame                                      |   1   |       |          |
+| 3  | Raspberry PI 5                                             |   1   |       |          |
+| 4  | SD card                                                    |   1   |       |          |
+| 5  | PSU for Raspberry PI 5                                     |   1   |       |          |
+| 6  | USB-C cable                                                |   1   |       |          |
+| 7  | Fan for steel enclosure                                    |   1   |       |          |
+| 8  | PSU for fan                                                |   1   |       |          |
+| 9  | Plastic or rubber feet + screws for steel enclosure        |   4   |       |          |
+| 10 | 3D-printed plastic front panel                             |   1   |       |          |
+| 11 | Brand and model sticker                                    |   1   |       |          |
+| 12 | Brass threaded inserts (?x)                                |       |       |          |
+| 13 | 10 inch touch screen with HDMI                             |   1   |       |          |
+| 14 | Touch screen mounting screws                               |   4   |       |          |
+| 15 | Touch screen PSU                                           |   1   |       |          |
+| 16 | Micro-HDMI to HDMI cable (correct?)                        |   1   |       |          |
+| 17 | On button                                                  |   1   |       |          |
+| 18 | On/off switch                                              |   1   |       |          |
+| 19 | Mains connector                                            |   1   |       |          |
+| 20 | Some way to connect all devices to mains (help?)           |   1   |       |          |
+| 21 | Handle                                                     |   1   |       |          |
+| 22 | Handle mechanism (?) → patent search for free alternatives |   1   |       |          |
 
 
 ## Design reference
