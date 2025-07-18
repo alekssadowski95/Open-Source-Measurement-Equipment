@@ -69,7 +69,7 @@ For reference on enclosure design.
 - Rohde & Schwarz MXO4: https://www.youtube.com/watch?v=BTuXbY_nBOM
 - Tektronix MDO3000: https://www.youtube.com/watch?v=VFX47ZGOn_o
 - Siglent SVA1015X VNA: https://www.youtube.com/watch?v=HxBcQDooAYs
-- 
+  
 
 ## To-do
 **Device 1: 10 inch touchscreen, type I , LibreVNA PCB, LibreVNA-GUI**
