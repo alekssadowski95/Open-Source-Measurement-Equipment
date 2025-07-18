@@ -72,7 +72,7 @@ For reference on enclosure design.
 - 
 
 ## To-do
-**10 inch touchscreen, type I device**
+**Device 1: 10 inch touchscreen, type I , LibreVNA PCB, LibreVNA-GUI**
 1. Find suppliers for components
 2. Get CAD files (*.STEP) for supplied bought components
 3. Create assembly in FreeCAD, import all supplied components and arrange them
