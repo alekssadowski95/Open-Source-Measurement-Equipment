@@ -36,7 +36,7 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 ## Bill of materials (10 inch touchscreen, type I, mechanical)
 *Table 1: Bill of materials for a device with a 10 inch touchscreen and type I front panel layout including the price and supplier for the components.*
 | Item no. | Description                                                | Count | Price | Supplier |
-|-----------------------------------------------------------------------|-------|-------|----------|
+|----------|------------------------------------------------------------|-------|-------|----------|
 | 1  | Measurement equipment PCB                                  |   1   |       |          |
 | 2  | Steel enclosure frame                                      |   1   |       |          |
 | 3  | Raspberry PI 5                                             |   1   |       |          |
