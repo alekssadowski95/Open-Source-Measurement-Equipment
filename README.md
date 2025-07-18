@@ -88,6 +88,7 @@ Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com
 | ia = "tektronix" AND nftxt = "handle" AND nftxt = "mechanism" AND pd <= "2005-01-01"                         | 78             |
 | ia = "tektronix" AND nftxt = "handle" AND nftxt = "mechanism" AND pd <= "2005-01-01" AND cl =/low "G01R1"    | 6             |
 | (ia = "tektronix" OR ia = "agilent") AND nftxt = "handle" AND nftxt = "mechanism" AND pd <= "2005-01-01" AND cl =/low "F16M11/00"    | ?             |
+| (ia = "tektronix" OR ia = "agilent" OR ia = "teledyne" OR ia = "keysight" OR ia = "sigilent" OR ia = "rigol") AND nftxt = "handle" AND nftxt = "mechanism" AND pd <= "2005-01-01" AND cl =/low "F16M11/00"    | ?             |
 
 
 
