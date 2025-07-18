@@ -73,7 +73,7 @@ For reference on enclosure design.
 - Tektronix MDO3000: https://www.youtube.com/watch?v=VFX47ZGOn_o
 - Siglent SVA1015X VNA: https://www.youtube.com/watch?v=HxBcQDooAYs
 
--> A solution for some way to connect all devices to mains needs to be found
+-> A solution for some way to connect all devices to mains needs to be found<br>
 -> A patent search for a handle mechanism has to be done or a mechanism from a device, that is at least 20 years old used.
 
 ## Patent search for handle mechanism
