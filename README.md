@@ -1,3 +1,6 @@
+> [!NOTE]
+> Suppliers wanted! Become a supplier, by adding your info the the BOM and uploading a CAD file of your component
+
 # Open-Source Measurement Equipment
 
 Generic measurement equipment framework (enclosure, PSU, display, ...) to be used with:
