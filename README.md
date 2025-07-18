@@ -25,10 +25,9 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 
 
 ## Front panel design types
-- Type I
-- Type II
-- Type III
-- Type IV
+- Screen
+- Analog controls
+- Connectors
 
 ![measurement-equipment-front-panel-layouts.jpeg](measurement-equipment-front-panel-layouts.jpeg)
 
