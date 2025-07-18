@@ -94,10 +94,6 @@ Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com
 | [US6140812A](https://worldwide.espacenet.com/patent/search/family/022275362/publication/US6000097A?q=pn%3DUS6000097A)           | Electronic instrument with multiple position spring detented handle     |
 
 
-**Relevant classes (CPC)**:
-- F16M11/10
-- H05K5/02
-
 
 ## Device 1: 10 inch touchscreen, type I , LibreVNA
 LibreVNA (PCB, GUI) (https://github.com/jankae/LibreVNA)
