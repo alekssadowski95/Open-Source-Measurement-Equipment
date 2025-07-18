@@ -1,5 +1,6 @@
 > [!NOTE]
-> **Suppliers wanted!** Become a supplier, by adding your info the the BOM and uploading a CAD file of your component to CAD/Supplier as a STEP file.
+> **Suppliers wanted** 
+> Become a supplier, by adding your info the the BOM and uploading a CAD file of your component to CAD/Supplier as a STEP file.
 
 # Open-Source Measurement Equipment
 Open-source framework for measurement equipment (enclosure, PSU, display, ...) to design and manufacture your own device:
