@@ -69,3 +69,12 @@ For reference on enclosure design.
 - Rohde & Schwarz MXO4: https://www.youtube.com/watch?v=BTuXbY_nBOM
 - Tektronix MDO3000: https://www.youtube.com/watch?v=VFX47ZGOn_o
 - Siglent SVA1015X VNA: https://www.youtube.com/watch?v=HxBcQDooAYs
+- 
+
+## To-do
+**10 inch touchscreen, type I device**
+1. Find suppliers
+2. Get CAD files (*.STEP) for supplied bought components
+3. Create assembly in FreeCAD, import all supplied components and arrange them
+4. Design all remaining components in FreeCAD
+5. Get supplier parts, manufacture custom parts and assemble device
