@@ -73,7 +73,7 @@ For reference on enclosure design.
 - Siglent SVA1015X VNA: https://www.youtube.com/watch?v=HxBcQDooAYs
 
 
-## Patent search
+## Patent search for handle mechanism
 Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com/), that is over 20 years old.
 
 *Table 2: Patent search queries on espacenet.com wit the number of results*
