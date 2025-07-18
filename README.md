@@ -89,10 +89,9 @@ Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com
 
 
 *Table 3: Relevant patents from patent search*
-| Document no.         | Title                                                                   | Link                                |
-|----------------------|-------------------------------------------------------------------------|-------------------------------------|
-| US6000097A           | Instrument with strengthened hollow handle                              | (https://worldwide.espacenet.com/patent/search/family/022281545/publication/US6140812A?q=pn%3DUS6140812A)  |
-| US6140812A           | Electronic instrument with multiple position spring detented handle     | (https://worldwide.espacenet.com/patent/search/family/022275362/publication/US6000097A?q=pn%3DUS6000097A)  |
+| Document no.                                                                                                                    | Title                                                                   |
+|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| [US6140812A](https://worldwide.espacenet.com/patent/search/family/022275362/publication/US6000097A?q=pn%3DUS6000097A)           | Electronic instrument with multiple position spring detented handle     |
 
 
 **Relevant classes (CPC)**:
