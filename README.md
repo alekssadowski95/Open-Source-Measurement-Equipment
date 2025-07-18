@@ -78,9 +78,12 @@ For reference on enclosure design.
 Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com/), that is over 20 years old.
 
 *Table 2: Patent search queries on espacenet.com wit the number of results*
-| Query                                                           | No. of results |
-|-----------------------------------------------------------------|----------------|
-| ia = "tektronix" AND nftxt = "handle" AND pd <= "2005-01-01"    | 251            |
+| Query                                                                                   | No. of results |
+|-----------------------------------------------------------------------------------------|----------------|
+| pd <= "2005-01-01"                                                                      | 33 676 350     |
+| ia = "tektronix" AND pd <= "2005-01-01"                                                 | 3 721          |
+| ia = "tektronix" AND nftxt = "handle" AND pd <= "2005-01-01"                            | 251            |
+| ia = "tektronix" AND nftxt = "handle" AND nftxt = "mechanism" AND pd <= "2005-01-01"    | 78             |
 
 
 *Table 3: Relevant patents from patent search*
@@ -88,6 +91,11 @@ Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com
 |----------------------|-------------------------------------------------------------------------|-------------------------------------|
 | US6000097A           | Instrument with strengthened hollow handle                              | (https://worldwide.espacenet.com/patent/search/family/022281545/publication/US6140812A?q=pn%3DUS6140812A)  |
 | US6140812A           | Electronic instrument with multiple position spring detented handle     | (https://worldwide.espacenet.com/patent/search/family/022275362/publication/US6000097A?q=pn%3DUS6000097A)  |
+
+
+Relevant classes (CPC)
+- F16M11/10
+- H05K5/02
 
 
 ## Device 1: 10 inch touchscreen, type I , LibreVNA PCB, LibreVNA-GUI (https://github.com/jankae/LibreVNA)
