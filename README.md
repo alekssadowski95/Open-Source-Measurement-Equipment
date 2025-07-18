@@ -59,9 +59,9 @@ Open-source framework for designing and manufacturing measurement equipment devi
 | 17 | On button                                                  |   1   |       |          |
 | 18 | On/off switch                                              |   1   |       |          |
 | 19 | Mains connector                                            |   1   |       |          |
-| 20 | Some way to connect all devices to mains (help?)           |   1   |       |          |
+| 20 | Some way to connect all devices to mains                   |   1   |       |          |
 | 21 | Handle                                                     |   1   |       |          |
-| 22 | Handle mechanism (?) → patent search for free alternatives |   1   |       |          |
+| 22 | Handle mechanism                                           |   1   |       |          |
 
 
 ## Design reference
@@ -73,6 +73,8 @@ For reference on enclosure design.
 - Tektronix MDO3000: https://www.youtube.com/watch?v=VFX47ZGOn_o
 - Siglent SVA1015X VNA: https://www.youtube.com/watch?v=HxBcQDooAYs
 
+-> A solution for some way to connect all devices to mains needs to be found
+-> A patent search for a handle mechanism has to be done or a mechanism from a device, that is at least 20 years old used.
 
 ## Patent search for handle mechanism
 Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com/), that is over 20 years old.
