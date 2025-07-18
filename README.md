@@ -34,30 +34,31 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 
 
 ## Bill of materials (10 inch touchscreen, type I, mechanical)
-Preliminary mBOM for the entire assembly:
-- <measurement equipment> pcb
-- steel enclosure top
-- steel enclosure bottom
-- Raspberry PI 5
-- SD card
-- PSU for Raspberry PI 5
-- USB-C cable
-- Fan for steel enclosure
-- PSU for fan
-- plastic or rubber feet + screws for steel enclosure (4x)
-- 3D-printed plastic front panel
-- Brand and model sticker
-- Brass threaded inserts (?x)
-- 10 inch touch screen with HDMI
-- Touch screen mounting screws (4x)
-- Touch screen PSU
-- micro-HDMI to HDMI cable (correct?)
-- on button
-- on/off switch
-- Mains connector
-- Some way to connect all devices to mains (help?)
-- Handle
-- Handle mechanism (?) -> patent search for free state of the art solution
+| Description                                                | Count | Price | Supplier |
+|------------------------------------------------------------|-------|-------|----------|
+| Measurement equipment PCB                                  |       |       |          |
+| Steel enclosure top                                        |       |       |          |
+| Steel enclosure bottom                                     |       |       |          |
+| Raspberry PI 5                                             |       |       |          |
+| SD card                                                    |       |       |          |
+| PSU for Raspberry PI 5                                     |       |       |          |
+| USB-C cable                                                |       |       |          |
+| Fan for steel enclosure                                    |       |       |          |
+| PSU for fan                                                |       |       |          |
+| Plastic or rubber feet + screws for steel enclosure (4x)   |       |       |          |
+| 3D-printed plastic front panel                             |       |       |          |
+| Brand and model sticker                                    |       |       |          |
+| Brass threaded inserts (?x)                                |       |       |          |
+| 10 inch touch screen with HDMI                             |       |       |          |
+| Touch screen mounting screws (4x)                          |       |       |          |
+| Touch screen PSU                                           |       |       |          |
+| Micro-HDMI to HDMI cable (correct?)                        |       |       |          |
+| On button                                                  |       |       |          |
+| On/off switch                                              |       |       |          |
+| Mains connector                                            |       |       |          |
+| Some way to connect all devices to mains (help?)           |       |       |          |
+| Handle                                                     |       |       |          |
+| Handle mechanism (?) → patent search for free alternatives |       |       |          |
 
 
 ## Design reference
