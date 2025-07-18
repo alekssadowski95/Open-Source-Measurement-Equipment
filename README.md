@@ -2,8 +2,7 @@
 > Suppliers wanted! Become a supplier, by adding your info the the BOM and uploading a CAD file of your component to CAD/Supplier as a STEP file.
 
 # Open-Source Measurement Equipment
-
-Generic measurement equipment framework (enclosure, PSU, display, ...) to be used with:
+Open-source framework for measurement equipment (enclosure, PSU, display, ...) to design and manufacture your own device:
 - Digital Oscilloscopes
 - Waveform Generators
 - Spectrum Analyzers
