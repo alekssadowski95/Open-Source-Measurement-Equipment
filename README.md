@@ -95,7 +95,7 @@ Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com
 | US6140812A           | Electronic instrument with multiple position spring detented handle     | (https://worldwide.espacenet.com/patent/search/family/022275362/publication/US6000097A?q=pn%3DUS6000097A)  |
 
 
-Relevant classes (CPC)
+**Relevant classes (CPC)**:
 - F16M11/10
 - H05K5/02
 
