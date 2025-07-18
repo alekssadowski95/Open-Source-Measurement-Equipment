@@ -33,7 +33,7 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 *Figure 3: Four  Different front panel design types based on the layout of the screen, analog controls and connectors.*
 
 
-## Bill of materials (10 inch touchscreen, mechanical)
+## Bill of materials (10 inch touchscreen, type I, mechanical)
 Preliminary mBOM for the entire assembly:
 - <measurement equipment> pcb
 - steel enclosure top
