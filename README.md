@@ -1,5 +1,5 @@
 > [!NOTE]
-> **Suppliers wanted** 
+> **Suppliers wanted** <br>
 > Become a supplier, by adding your info the the BOM and uploading a CAD file of your component to CAD/Supplier as a STEP file.
 
 # Open-Source Measurement Equipment
