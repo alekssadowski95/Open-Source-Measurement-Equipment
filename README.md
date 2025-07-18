@@ -11,8 +11,8 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 - DC Electronic Loads
 - Power Supplies
 
-
 ![librevna-enclosure.jpeg](librevna-enclosure.jpeg)
+*Figure 1: Enclosure for the LibreVNA PCB*
 
 
 ## Formfactors
@@ -20,8 +20,8 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 - 7 inch touchscreen
 - 5 inch touchscreen
 
-
 ![measurement-equipment-formfactors.jpeg](measurement-equipment-formfactors.jpeg)
+*Figure 2: Different measurement equipment formfactors with screen sizes of 10, 7 and 5 inches*
 
 
 ## Front panel design types
@@ -30,7 +30,7 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 - Connectors
 
 ![measurement-equipment-front-panel-layouts.jpeg](measurement-equipment-front-panel-layouts.jpeg)
-
+*Figure 3: Four  Different front panel design types based on the layout of the screen, analog controls and connectors.*
 
 
 ## Bill of materials (10 inch touchscreen, mechanical)
