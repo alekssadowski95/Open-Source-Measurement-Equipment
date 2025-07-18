@@ -33,7 +33,7 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 
 
 
-## Bill of materials (mechanical)
+## Bill of materials (10 inch touchscreen, mechanical)
 Preliminary mBOM for the entire assembly:
 - <measurement equipment> pcb
 - steel enclosure top
