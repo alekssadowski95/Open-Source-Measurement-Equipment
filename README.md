@@ -30,10 +30,11 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 - Connectors
 
 ![measurement-equipment-front-panel-layouts.jpeg](measurement-equipment-front-panel-layouts.jpeg)
-*Figure 3: Four  Different front panel design types based on the layout of the screen, analog controls and connectors.*
+*Figure 3: Four Different front panel design types based on the layout of the screen, analog controls and connectors.*
 
 
 ## Bill of materials (10 inch touchscreen, type I, mechanical)
+*Table 1: Bill of materials for a device with a 10 inch touchscreen and type I front panel layout including the price and supplier for the components.*
 | Description                                                | Count | Price | Supplier |
 |------------------------------------------------------------|-------|-------|----------|
 | Measurement equipment PCB                                  |   1   |       |          |
