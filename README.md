@@ -36,29 +36,28 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 ## Bill of materials (10 inch touchscreen, type I, mechanical)
 | Description                                                | Count | Price | Supplier |
 |------------------------------------------------------------|-------|-------|----------|
-| Measurement equipment PCB                                  |       |       |          |
-| Steel enclosure top                                        |       |       |          |
-| Steel enclosure bottom                                     |       |       |          |
-| Raspberry PI 5                                             |       |       |          |
-| SD card                                                    |       |       |          |
-| PSU for Raspberry PI 5                                     |       |       |          |
-| USB-C cable                                                |       |       |          |
-| Fan for steel enclosure                                    |       |       |          |
-| PSU for fan                                                |       |       |          |
-| Plastic or rubber feet + screws for steel enclosure (4x)   |       |       |          |
-| 3D-printed plastic front panel                             |       |       |          |
-| Brand and model sticker                                    |       |       |          |
+| Measurement equipment PCB                                  |   1   |       |          |
+| Steel enclosure frame                                      |   1   |       |          |
+| Raspberry PI 5                                             |   1   |       |          |
+| SD card                                                    |   1   |       |          |
+| PSU for Raspberry PI 5                                     |   1   |       |          |
+| USB-C cable                                                |   1   |       |          |
+| Fan for steel enclosure                                    |   1   |       |          |
+| PSU for fan                                                |   1   |       |          |
+| Plastic or rubber feet + screws for steel enclosure        |   4   |       |          |
+| 3D-printed plastic front panel                             |   1   |       |          |
+| Brand and model sticker                                    |   1   |       |          |
 | Brass threaded inserts (?x)                                |       |       |          |
-| 10 inch touch screen with HDMI                             |       |       |          |
-| Touch screen mounting screws (4x)                          |       |       |          |
-| Touch screen PSU                                           |       |       |          |
-| Micro-HDMI to HDMI cable (correct?)                        |       |       |          |
-| On button                                                  |       |       |          |
-| On/off switch                                              |       |       |          |
-| Mains connector                                            |       |       |          |
-| Some way to connect all devices to mains (help?)           |       |       |          |
-| Handle                                                     |       |       |          |
-| Handle mechanism (?) → patent search for free alternatives |       |       |          |
+| 10 inch touch screen with HDMI                             |   1   |       |          |
+| Touch screen mounting screws                               |   4   |       |          |
+| Touch screen PSU                                           |   1   |       |          |
+| Micro-HDMI to HDMI cable (correct?)                        |   1   |       |          |
+| On button                                                  |   1   |       |          |
+| On/off switch                                              |   1   |       |          |
+| Mains connector                                            |   1   |       |          |
+| Some way to connect all devices to mains (help?)           |   1   |       |          |
+| Handle                                                     |   1   |       |          |
+| Handle mechanism (?) → patent search for free alternatives |   1   |       |          |
 
 
 ## Design reference
