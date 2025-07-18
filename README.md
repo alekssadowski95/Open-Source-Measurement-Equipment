@@ -52,7 +52,7 @@ Open-source framework for designing and manufacturing measurement equipment devi
 | 10 | 3D-printed plastic front panel                             |   1   |       |          |
 | 11 | Brand and model sticker                                    |   1   |       |          |
 | 12 | Brass threaded inserts (?x)                                |       |       |          |
-| 13 | 10 inch touch screen with HDMI                             |   1   |       |          |
+| 13 | 10 inch touch screen with HDMI                             |   1   |   154,50 €   |     RS Components GmbH (https://de.rs-online.com/web/p/lcd-farbdisplays/0295782?gb=s)     |
 | 14 | Touch screen mounting screws                               |   4   |       |          |
 | 15 | Touch screen PSU                                           |   1   |       |          |
 | 16 | Micro-HDMI to HDMI cable (correct?)                        |   1   |       |          |
