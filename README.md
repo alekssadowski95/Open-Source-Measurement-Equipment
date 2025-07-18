@@ -82,8 +82,8 @@ Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com
 *Table 2: Patent search queries on espacenet.com wit the number of results*
 | Query                                                                                                        | No. of results |
 |--------------------------------------------------------------------------------------------------------------|----------------|
-| pd <= "2005-01-01"                                                                                           | 33 676 350     |
-| ia = "tektronix" AND pd <= "2005-01-01"                                                                      | 3 721          |
+| pd <= "2005-01-01"                                                                                           | 33,676,350     |
+| ia = "tektronix" AND pd <= "2005-01-01"                                                                      | 3,721          |
 | ia = "tektronix" AND nftxt = "handle" AND pd <= "2005-01-01"                                                 | 251            |
 | ia = "tektronix" AND nftxt = "handle" AND nftxt = "mechanism" AND pd <= "2005-01-01"                         | 78             |
 | ia = "tektronix" AND nftxt = "handle" AND nftxt = "mechanism" AND pd <= "2005-01-01" AND cl =/low "G01R1"    | 6             |
