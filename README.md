@@ -14,6 +14,12 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 
 ![librevna-enclosure.jpeg](librevna-enclosure.jpeg)
 
+
+## Formfactors
+![measurement-equipment-formfactors.jpeg](measurement-equipment-formfactors.jpeg)
+
+
+## Bill of materials (mechanical)
 Preliminary mBOM for the entire assembly:
 - <measurement equipment> pcb
 - steel enclosure top
@@ -40,6 +46,7 @@ Preliminary mBOM for the entire assembly:
 - Handle mechanism (?) -> patent search for free state of the art solution
 
 
+## Design reference
 For reference on enclosure design.
 - Rigol DHO800: https://www.youtube.com/watch?v=KQF4UzLPpr0
 - Rohde & Schwarz HMO1202: https://www.youtube.com/watch?v=q_FBwu2K7j0
