@@ -24,6 +24,16 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 ![measurement-equipment-formfactors.jpeg](measurement-equipment-formfactors.jpeg)
 
 
+## Front panel design types
+- Type I
+- Type II
+- Type III
+- Type IV
+
+![measurement-equipment-front-panel-layouts.jpeg](measurement-equipment-front-panel-layouts.jpeg)
+
+
+
 ## Bill of materials (mechanical)
 Preliminary mBOM for the entire assembly:
 - <measurement equipment> pcb
