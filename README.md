@@ -98,7 +98,9 @@ Relevant classes (CPC)
 - H05K5/02
 
 
-## Device 1: 10 inch touchscreen, type I , LibreVNA PCB, LibreVNA-GUI (https://github.com/jankae/LibreVNA)
+## Device 1: 10 inch touchscreen, type I , LibreVNA
+LibreVNA (PCB, GUI) (https://github.com/jankae/LibreVNA)
+
 1. Find suppliers for components
 2. Get CAD files (*.STEP) for supplied bought components
 3. Create assembly in FreeCAD, import all supplier components and arrange them
