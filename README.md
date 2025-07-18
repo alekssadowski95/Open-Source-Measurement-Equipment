@@ -44,7 +44,7 @@ Open-source framework for designing and manufacturing measurement equipment devi
 | 2  | Steel enclosure frame                                      |   1   |       |          |
 | 3  | Raspberry PI 5                                             |   1   |       |          |
 | 4  | SD card                                                    |   1   |       |          |
-| 5  | PSU for Raspberry PI 5                                     |   1   |       |          |
+| 5  | PSU for Raspberry PI 5                                     |   1   |   99,78 €    |   RS Components GmbH (https://de.rs-online.com/web/p/raspberry-pi/0219255?gb=s)      |
 | 6  | USB-C cable                                                |   1   |       |          |
 | 7  | Fan for steel enclosure                                    |   1   |       |          |
 | 8  | PSU for fan                                                |   1   |       |          |
