@@ -12,6 +12,8 @@ Generic measurement equipment framework (enclosure, PSU, display, ...) to be use
 - Power Supplies
 
 
+![ibrevna-enclosure.jpeg](ibrevna-enclosure.jpeg)
+
 Preliminary mBOM for the entire assembly:
 - <measurement equipment> pcb
 - steel enclosure top
