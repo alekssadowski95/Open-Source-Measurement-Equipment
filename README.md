@@ -89,8 +89,7 @@ Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com
 | US6140812A           | Electronic instrument with multiple position spring detented handle     | (https://worldwide.espacenet.com/patent/search/family/022275362/publication/US6000097A?q=pn%3DUS6000097A)  |
 
 
-## To-do
-**Device 1: 10 inch touchscreen, type I , LibreVNA PCB, LibreVNA-GUI (https://github.com/jankae/LibreVNA)**
+## Device 1: 10 inch touchscreen, type I , LibreVNA PCB, LibreVNA-GUI (https://github.com/jankae/LibreVNA)
 1. Find suppliers for components
 2. Get CAD files (*.STEP) for supplied bought components
 3. Create assembly in FreeCAD, import all supplier components and arrange them
