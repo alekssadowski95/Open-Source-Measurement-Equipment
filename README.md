@@ -73,8 +73,9 @@ For reference on enclosure design.
 
 ## To-do
 **10 inch touchscreen, type I device**
-1. Find suppliers
+1. Find suppliers for components
 2. Get CAD files (*.STEP) for supplied bought components
 3. Create assembly in FreeCAD, import all supplied components and arrange them
 4. Design all remaining components in FreeCAD
 5. Get supplier parts, manufacture custom parts and assemble device
+6. Showcase project in nanoPLM (https://github.com/alekssadowski95/nanoPLM)
