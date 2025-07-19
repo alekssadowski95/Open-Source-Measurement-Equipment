@@ -95,9 +95,9 @@ Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com
 
 
 *Table 3: Relevant patents from patent search*
-| Document no.                                                                                                                    | Title                                                                   |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| [US6140812A](https://worldwide.espacenet.com/patent/search/family/022275362/publication/US6000097A?q=pn%3DUS6000097A)           | Electronic instrument with multiple position spring detented handle     |
+| Preview | Document no.                                                                                                                    | Title                                                                   |
+|---------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| ![US6140812A](US6140812A.png) | [US6140812A](https://worldwide.espacenet.com/patent/search/family/022275362/publication/US6000097A?q=pn%3DUS6000097A)           | Electronic instrument with multiple position spring detented handle     |
 | [US4089464A](https://worldwide.espacenet.com/patent/search/family/024926023/publication/US4089464A?q=pn%3DUS4089464A)           | Instrument housing     |
 | [US3464586A](https://worldwide.espacenet.com/patent/search/family/025103197/publication/US3464586A?q=US3464586A)           | BAIL HANDLE PIVOT MOUNT     |
 | [US3924775A](https://worldwide.espacenet.com/patent/search/family/023445693/publication/US3924775A?q=US3924775A)           | POSITIVELY LOCKABLE ANGULARLY ADJUSTABLE HANDLE     |
