@@ -90,7 +90,7 @@ Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com
 | (ia = "tektronix" OR ia = "agilent") AND nftxt = "handle" AND nftxt = "mechanism" AND pd <= "2005-01-01" AND (cl =/low "G01R1" OR cl =/low "F16M11/00")    | 19             |
 | (ia = "tektronix" OR ia = "agilent" OR ia = "teledyne" OR ia = "keysight" OR ia = "sigilent" OR ia = "rigol") AND nftxt = "handle" AND nftxt = "mechanism" AND pd <= "2005-01-01" AND (cl =/low "G01R1" OR cl =/low "F16M11/00")    | 21             |
 | cl = "H05K5/023/low" AND pd <= "2005-01-01"    | 196             |
-
+| cpc = "F16M11/10/low" AND nftxt = "instrument" AND nftxt = "stand" AND pd <= "2005-01-01"    | 116             |
 
 
 
@@ -98,6 +98,7 @@ Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com
 | Document no.                                                                                                                    | Title                                                                   |
 |---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | [US6140812A](https://worldwide.espacenet.com/patent/search/family/022275362/publication/US6000097A?q=pn%3DUS6000097A)           | Electronic instrument with multiple position spring detented handle     |
+| [US4089464A](https://worldwide.espacenet.com/patent/search/family/024926023/publication/US4089464A?q=pn%3DUS4089464A)           | Instrument housing     |
 
 
 
