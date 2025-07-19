@@ -98,12 +98,12 @@ Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com
 | Preview | Document no.                                                                                                                    | Title                                                                   |
 |---------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | ![US6140812A](US6140812A.png) | [US6140812A](https://worldwide.espacenet.com/patent/search/family/022275362/publication/US6000097A?q=pn%3DUS6000097A)           | Electronic instrument with multiple position spring detented handle     |
-| [US4089464A](https://worldwide.espacenet.com/patent/search/family/024926023/publication/US4089464A?q=pn%3DUS4089464A)           | Instrument housing     |
-| [US3464586A](https://worldwide.espacenet.com/patent/search/family/025103197/publication/US3464586A?q=US3464586A)           | BAIL HANDLE PIVOT MOUNT     |
-| [US3924775A](https://worldwide.espacenet.com/patent/search/family/023445693/publication/US3924775A?q=US3924775A)           | POSITIVELY LOCKABLE ANGULARLY ADJUSTABLE HANDLE     |
-| [US3124266A](https://worldwide.espacenet.com/patent/search/family/003453724/publication/US3124266A?q=US3124266A)           | Casing for portable electrical aparatus     |
-| [US4196821A](https://worldwide.espacenet.com/patent/search/family/027111658/publication/US4196821A?q=US4196821A)           | Instrument housing     |
-| [US4393540A](https://worldwide.espacenet.com/patent/search/family/014271265/publication/US4393540A?q=US4393540A)           | Detachable handle having a pivotal part     |
+| ![US4089464A](US4089464A.png) | [US4089464A](https://worldwide.espacenet.com/patent/search/family/024926023/publication/US4089464A?q=pn%3DUS4089464A)           | Instrument housing     |
+| ![US3464586A](US3464586A.png) | [US3464586A](https://worldwide.espacenet.com/patent/search/family/025103197/publication/US3464586A?q=US3464586A)           | BAIL HANDLE PIVOT MOUNT     |
+| ![US3924775A](US3924775A.png) | [US3924775A](https://worldwide.espacenet.com/patent/search/family/023445693/publication/US3924775A?q=US3924775A)           | POSITIVELY LOCKABLE ANGULARLY ADJUSTABLE HANDLE     |
+| ![US3124266A](US3124266A.png) | [US3124266A](https://worldwide.espacenet.com/patent/search/family/003453724/publication/US3124266A?q=US3124266A)           | Casing for portable electrical aparatus     |
+| ![US4196821A](US4196821A.png) | [US4196821A](https://worldwide.espacenet.com/patent/search/family/027111658/publication/US4196821A?q=US4196821A)           | Instrument housing     |
+| ![US4393540A](US4393540A.png) | [US4393540A](https://worldwide.espacenet.com/patent/search/family/014271265/publication/US4393540A?q=US4393540A)           | Detachable handle having a pivotal part     |
 
 
 
