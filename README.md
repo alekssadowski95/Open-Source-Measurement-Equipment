@@ -103,7 +103,7 @@ Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com
 | [US3924775A](https://worldwide.espacenet.com/patent/search/family/023445693/publication/US3924775A?q=US3924775A)           | POSITIVELY LOCKABLE ANGULARLY ADJUSTABLE HANDLE     |
 | [US3124266A](https://worldwide.espacenet.com/patent/search/family/003453724/publication/US3124266A?q=US3124266A)           | Casing for portable electrical aparatus     |
 
-
+**Note**: cpc=F16M11/10/low
 
 ## Device 1: 10 inch touchscreen, type I , LibreVNA
 LibreVNA (PCB, GUI) (https://github.com/jankae/LibreVNA)
