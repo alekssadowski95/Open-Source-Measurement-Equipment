@@ -1,6 +1,6 @@
 > [!NOTE]
 > **Find components on de.farnell.com** <br>
-> Link to the specific components on http://de.farnell.com in the BOM and upload the CAD file as *.STEP
+> Link to the specific components on de.farnell.com in the BOM and upload the CAD file as *.STEP
 
 # Open-Source Measurement Equipment
 Open-source framework for designing and manufacturing measurement equipment devices:
@@ -35,6 +35,10 @@ Open-source framework for designing and manufacturing measurement equipment devi
 ![measurement-equipment-front-panel-layouts.jpeg](measurement-equipment-front-panel-layouts.jpeg)
 *Figure 3: Four Different front panel design types based on the layout of the screen, analog controls and connectors.*
 
+
+## Suppliers
+- RS Components GmbH: (de.rs-online.com/web)
+- Fernell GmbH: (de.farnell.com)
 
 ## Bill of materials (10 inch touchscreen, type I, mechanical)
 *Table 1: Bill of materials for a device with a 10 inch touchscreen and type I front panel layout including the price and supplier for the components.*
