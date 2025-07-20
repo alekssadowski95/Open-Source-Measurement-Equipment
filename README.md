@@ -37,8 +37,8 @@ Open-source framework for designing and manufacturing measurement equipment devi
 
 
 ## Suppliers
-- RS Components GmbH: (de.rs-online.com/web)
-- Fernell GmbH: (de.farnell.com)
+- RS Components GmbH: [de.rs-online.com/web](de.rs-online.com/web)
+- Fernell GmbH: [de.farnell.com](de.farnell.com)
 
 ## Bill of materials (10 inch touchscreen, type I, mechanical)
 *Table 1: Bill of materials for a device with a 10 inch touchscreen and type I front panel layout including the price and supplier for the components.*
