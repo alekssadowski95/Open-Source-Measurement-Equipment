@@ -44,28 +44,26 @@ Open-source framework for designing and manufacturing measurement equipment devi
 *Table 1: Bill of materials for a device with a 10 inch touchscreen and type I front panel layout including the price and supplier for the components.*
 | Item no. | Description                                                | Count | Price | Supplier |
 |----------|------------------------------------------------------------|-------|-------|----------|
-| 1  | Measurement equipment PCB                                  |   1   |       |          |
-| 2  | Steel enclosure frame                                      |   1   |       |          |
-| 3  | Raspberry PI 5                                             |   1   |    99,78 €     |    RS Components GmbH (https://de.rs-online.com/web/p/raspberry-pi/0219255?gb=s)      |
-| 4  | SD card                                                    |   1   |       |          |
-| 5  | PSU for Raspberry PI 5                                     |   1   |     |         |
-| 6  | USB-C cable                                                |   1   |       |          |
-| 7  | Fan for steel enclosure                                    |   1   |       |          |
-| 8  | PSU for fan                                                |   1   |       |          |
-| 9  | Plastic or rubber feet + screws for steel enclosure        |   4   |       |          |
-| 10 | 3D-printed plastic front panel                             |   1   |       |          |
-| 11 | Brand and model sticker                                    |   1   |       |          |
-| 12 | Brass threaded inserts (?x)                                |       |       |          |
-| 13 | 10 inch touch screen with HDMI                             |   1   |   154,50 €   |     RS Components GmbH (https://de.rs-online.com/web/p/lcd-farbdisplays/0295782?gb=s)     |
-| 14 | Touch screen mounting screws                               |   4   |       |          |
-| 15 | Touch screen PSU                                           |   1   |       |          |
-| 16 | Micro-HDMI to HDMI cable (correct?)                        |   1   |       |          |
-| 17 | On button                                                  |   1   |       |          |
-| 18 | On/off switch                                              |   1   |       |          |
-| 19 | Mains connector                                            |   1   |       |          |
-| 20 | Some way to connect all devices to mains                   |   1   |       |          |
-| 21 | Handle                                                     |   1   |       |          |
-| 22 | Handle mechanism                                           |   1   |       |          |
+| 1  | Measurement equipment PCB                                  |   1   |   ?   |    PCB manufacturing service      |
+| 2  | Steel enclosure frame                                      |   1   |   ?   |    sheel metal manufacturing service      |
+| 3  | Raspberry Pi5 2GB                                             |   1   |   43,34 €     |    (https://de.farnell.com/raspberry-pi/raspberry-pi-5-2g/rpi-5-board-2-4ghz-2gb-arm-cortex/dp/4531087?MER=BR-MER-CA-RECO-STM71778)      |
+| 4  | SD card                                                    |   1   |  10,76 €    |    (https://de.farnell.com/raspberry-pi/pi-os-32gb/microsdhc-karte-32-gb-rpi-4-5/dp/4550988)      |
+| 5  | PSU for Raspberry PI 5                                     |   1   |  6,62 €   |    (https://de.farnell.com/edatec/ed-psu1201-eu/ac-dc-adapter-rpi-board-eu-12vdc/dp/4627205)    |
+| 5  | Nylon-Standoffs for Raspberry PI 5                                     |   1   |  0,51 €   |    (https://de.farnell.com/multicomp/rpi-nylon-standoff-kit/abstandhalter-m-gewinde-raspberry/dp/2543622)    |
+| 6  | Fan for steel enclosure                                    |   1   |   6,38 €    |     (https://de.farnell.com/sunon/mf60101v3-1000u-a99/dc-fan-vapo-60mm-3000rpm-12vdc/dp/4382085?MER=BR-MER-PDP-RECO-STM72194)    |
+| 7  | PSU for fan                                                |   1   |   13,55 €    |     (https://de.farnell.com/mean-well/eps-45-12-c/ac-dc-netzteil-12v-3-75a/dp/3596391)    |
+| 8  | Plastic or rubber feet + screws for steel enclosure        |   4   |  1,67 €     |    (https://de.farnell.com/penn-elcom/91450/rubber-feet-set-of-4-pk4/dp/3403799)      |
+| 9 | 3D-printed plastic front panel                             |   1   |   ?     |   3D printing service      |
+| 10 | Brand and model sticker                                    |   1   |   ?    |     Label printing service     |
+| 11 | Brass threaded inserts                                |   12    |   2,18 €    |     (https://de.farnell.com/multicomp-pro/mp015402/einsatz-kupfer-m4-8-73mm/dp/4655260)     |
+| 12 | 10 inch touch screen with HDMI                             |   1   |  170,57 €   |     (https://de.farnell.com/multicomp-pro/touchscreen-10-1/touch-screen-display-10-1-raspberry/dp/3263444?MER=BR-MER-PDP-RECO-FVT)    |
+| 13 | Touch screen PSU                                           |   1   |   ?    |     ?     |
+| 14 | Micro-HDMI to HDMI cable                        |   1   |   4,34 €    |    (https://de.farnell.com/raspberry-pi/t7732ax/konf-kabel-micro-hdmi-hdmi-steck/dp/3107128)      |
+| 15 | On button                                                  |   1   |   3,19 €    |    (https://de.farnell.com/arcolectric/h8350ab/drucktaster-taste-schwarz-rastend/dp/389948)      |
+| 17 | Mains connector                                            |   1   |   6,70 €    |    (https://de.farnell.com/multicomp-pro/jr-101-1-frsg-02/eingang-iec-dpst-mit-sicherungshalt/dp/1516058)      |
+| 18 | Some way to connect all devices to mains                   |   1   |   ?    |    ?      |
+| 19 | Handle                                                     |   1   |   ?    |    3D printing service      |
+| 20 | Handle mechanism                                           |   1   |   ?    |    3D printing service      |
 
 
 ## Design reference
