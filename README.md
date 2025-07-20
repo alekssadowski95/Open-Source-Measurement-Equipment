@@ -112,9 +112,10 @@ Patent search for handle mechanism on Espacenet (https://worldwide.espacenet.com
 ## Device 1: 10 inch touchscreen, type I , LibreVNA
 LibreVNA (PCB, GUI) (https://github.com/jankae/LibreVNA)
 
-1. Find suppliers for components
-2. Get CAD files (*.STEP) for supplied bought components
-3. Create assembly in FreeCAD, import all supplier components and arrange them
-4. Design all remaining components in FreeCAD
-5. Get supplier parts, manufacture custom parts and assemble device
-6. Showcase project in nanoPLM (https://github.com/alekssadowski95/nanoPLM)
+1. Done: Find suppliers for components
+2. Add links to suppliers components in the BOM
+3. Get CAD files (*.STEP) for supplied components
+4. Create assembly in FreeCAD, import all supplier components and arrange them
+5. Design all remaining components in FreeCAD
+6. Get supplier parts, manufacture custom parts and assemble device
+7. Showcase project in nanoPLM (https://github.com/alekssadowski95/nanoPLM)
