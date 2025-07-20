@@ -1,6 +1,6 @@
 > [!NOTE]
-> **Suppliers wanted** <br>
-> Become a supplier, by adding your info to the BOM and uploading a CAD file of your component to CAD/Supplier as a STEP file.
+> **Find components on de.farnell.com** <br>
+> Link to the specific components on http://de.farnell.com in the BOM and upload the CAD file as *.STEP
 
 # Open-Source Measurement Equipment
 Open-source framework for designing and manufacturing measurement equipment devices:
