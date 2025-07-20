@@ -1,6 +1,6 @@
 > [!NOTE]
-> **Find components on de.farnell.com** <br>
-> Link to the specific components on de.farnell.com in the BOM and upload the CAD file as *.STEP
+> **Add components from suppliers to BOM** <br>
+> Link to the specific components on de.farnell.com and de.rs-online.com/web in the BOM and upload the CAD file as *.STEP
 
 # Open-Source Measurement Equipment
 Open-source framework for designing and manufacturing measurement equipment devices:
