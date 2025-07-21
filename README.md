@@ -42,7 +42,7 @@ Open-source framework for designing and manufacturing measurement equipment devi
 
 ## Bill of materials (10 inch touchscreen, type I, mechanical)
 *Table 1: Bill of materials for a device with a 10 inch touchscreen and type I front panel layout including the price and supplier for the components.*
-| Item no. | Description                                                | Count | Price | Supplier |
+| Item no. | Description                                                | Count | Price (excl. tax) | Supplier |
 |----------|------------------------------------------------------------|-------|-------|----------|
 | 1  | Measurement equipment PCB                                  |   1   |   ?   |    PCB manufacturing service      |
 | 2  | Steel enclosure frame                                      |   1   |   ?   |    sheel metal manufacturing service      |
