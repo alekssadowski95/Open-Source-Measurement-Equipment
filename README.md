@@ -1,6 +1,6 @@
 > [!NOTE]
 > **Add components from suppliers to BOM** <br>
-> Link to the specific components on de.farnell.com and de.rs-online.com/web in the BOM and upload the CAD file as *.STEP
+> Link to the specific components on de.farnell.com and de.rs-online.com/web in the BOM and recreate CAD files from specification as *.FCStd and *.STEP
 
 # Open-Source Measurement Equipment
 Open-source framework for designing and manufacturing measurement equipment devices:
